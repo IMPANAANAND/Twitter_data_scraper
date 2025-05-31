@@ -33,7 +33,7 @@ pip install ntscraper pandas xlsxwriter
 ## Usage
 
 1. **Open the Notebook:**  
-   Open `Twitter_Final (1).ipynb` in Jupyter or VS Code.
+   Open `Twitter_Final.ipynb` in Jupyter or VS Code.
 
 2. **Set Usernames:**  
    Edit the `usernames` list in the notebook to include the Twitter handles you want to scrape.
@@ -55,7 +55,7 @@ pip install ntscraper pandas xlsxwriter
 
 ## File Structure
 
-- `Twitter_Final (1).ipynb` — Main notebook for scraping and exporting Twitter data.
+- `Twitter_Final.ipynb` — Main notebook for scraping and exporting Twitter data.
 
 ## License
 
